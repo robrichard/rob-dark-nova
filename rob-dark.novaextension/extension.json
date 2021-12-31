@@ -1,8 +1,9 @@
 {
-    "identifier": "org.robrichard",
-    "name": "rob-dark",
-    "organization": "MyOrganization",
-    "description": "Lorem ipsum, dolor sit amet.",
-    "version": "1.0",
-    "categories": ["themes"]
+  "identifier": "org.robrichard",
+  "name": "rob-dark",
+  "organization": "Rob Richard",
+  "description": "Rob's dark theme with italics.",
+  "version": "1.0",
+  "categories": ["themes"],
+  "bugs": "https://github.com/robrichard/rob-dark-nova"
 }
