@@ -157,14 +157,13 @@ keyword.self.prefix {
 }
 
 /* Values */
-value.boolean {
-  color: hsl(210, 100%, 70%);
-}
+value.boolean,
 value.null {
-  color: hsl(210, 100%, 70%);
+  color: #cc8242;
+  font-style: italic;
 }
+
 value.number {
-  /*   color: hsl(45, 50%, 80%); */
 }
 value.entity {
   color: hsl(210, 100%, 70%);
